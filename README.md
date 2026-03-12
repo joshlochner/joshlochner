@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshlochner
 - 👀 I’m interested in building and improving policies.
-- 🌱 I’m currently learning about our pipeline processes
+- 🌱 I’m currently learning about agentic workflows and orchestration.
 - 💞️ I’m looking to collaborate on security policies!
 - 📫 How to reach me, email/teams
 
